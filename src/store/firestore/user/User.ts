@@ -3,4 +3,7 @@ export interface UserProps {
   password: string
   email: string
   birthday: Date
+  cpf: number
+  createdAt: Date
+  phone: number
 }
